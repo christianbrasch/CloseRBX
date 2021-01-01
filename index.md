@@ -1,11 +1,12 @@
+###[DOWNLOAD](https://github.com/christianbrasch/CloseRBX/releases/download/1.0.0/CloseRBX.bat)
 ## How does it work?
 
 It works by using one line of code in the Windows command prompt to close the program. This is an alternative way to close the ROBLOX Player.
 
-### Is it safe?
+## Is it safe?
 As mentioned before, this uses one line of code in the **Windows** Command Prompt, so **its safe!**
 
-### I don't wanna download this, Can I have the line of code?
+## I don't wanna download this, Can I have the line of code?
 Sure! You can run this in command prompt to close the app, or Save it as a .bat file by doing these steps:
 
 Paste the code into your notepad
@@ -18,7 +19,7 @@ The code to run in command prompt or to make a bat file is below:
 taskkill /im RobloxPlayerBeta.exe /t /f
 ```
 
-### GitHub Discussion Tab
+## GitHub Discussion Tab
 
 (For some random reason if you want to) Check out the [Discussion Page](https://github.com/christianbrasch/CloseRBX/discussions) or [contact Christian](mailto:mcchristianb21@gmail.com) and we can talk there.
 
