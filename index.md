@@ -25,8 +25,10 @@ taskkill /im RobloxPlayerBeta.exe /t /f
 ## Note:
 ```markdown
 This program is **NOT** endorsed,created,or partnered/affiliated by Roblox Corporation.
+```
 
 ## Creator's Socials
+
 ```markdown
 [Twitch](https://twitch.tv/christianviattv)
 [Twitter](https://twitter.com/christianviattv)
