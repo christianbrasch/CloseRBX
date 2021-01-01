@@ -1,0 +1,1 @@
+taskkill /im RobloxPlayerBeta.exe /t /f
