@@ -1,4 +1,4 @@
-###[DOWNLOAD](https://github.com/christianbrasch/CloseRBX/releases/download/1.0.0/CloseRBX.bat)
+### [DOWNLOAD](https://github.com/christianbrasch/CloseRBX/releases/download/1.0.0/CloseRBX.bat)
 ## How does it work?
 
 It works by using one line of code in the Windows command prompt to close the program. This is an alternative way to close the ROBLOX Player.
