@@ -1,37 +1,34 @@
-## Welcome to GitHub Pages
+## How does it work?
 
-You can use the [editor on GitHub](https://github.com/christianbrasch/CloseRBX/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+It works by using one line of code in the Windows command prompt to close the program. This is an alternative way to close the ROBLOX Player.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Is it safe?
+As mentioned before, this uses one line of code in the **Windows** Command Prompt, so **its safe!**
 
-### Markdown
+### I don't wanna download this, Can I have the line of code?
+Sure! You can run this in command prompt to close the app, or Save it as a .bat file by doing these steps:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Paste the code into your notepad
+File --> Save As (Located at the Top Right of the Notepad program)
+At the bottom of the pop up window, theres a section that says "Save as type"
+Change that to All Files, then name the file "CloseRBX.bat" and press save.
+The code to run in command prompt or to make a bat file is below:
 
 ```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+taskkill /im RobloxPlayerBeta.exe /t /f
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### GitHub Discussion Tab
 
-### Jekyll Themes
+(For some random reason if you want to) Check out the [Discussion Page](https://github.com/christianbrasch/CloseRBX/discussions) or [contact Christian](mailto:mcchristianb21@gmail.com) and we can talk there.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/christianbrasch/CloseRBX/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## Note:
+```markdown
+This program is **NOT** endorsed,created,or partnered/affiliated by Roblox Corporation.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Creator's Socials
+```markdown
+[Twitch](https://twitch.tv/christianviattv)
+[Twitter](https://twitter.com/christianviattv)
+[Facebook](https://facebook.com/christianttv)
+[Roblox Profile](https://www.roblox.com/users/84913519/profile)
